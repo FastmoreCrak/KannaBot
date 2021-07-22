@@ -28,7 +28,8 @@ Ahora vaya a https://dashboard.heroku.com/apps/(app-name)/resources (Reemplace (
 Encienda el dinamómetro del trabajador (no se preocupe, es gratis :D) y Webhook
 Ahora envíe el bot /start. Si no responde, vaya a https://dashboard.heroku.com/apps/(app-name)/settings y elimine el webhook y el puerto.
 ```
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/NachABR/MeguBot.git)
+ [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/FastmoreCrak/KannaBot.git)
 
 </details>
 <details>
@@ -86,4 +87,3 @@ Se admiten las siguientes variables de entorno:
  - `URL`: La URL a la que debe conectarse su webhook (solo se necesita para el modo webhook).
 
  - `SUDO_USERS`: Una lista separada por espacios de user_ids que deben considerarse superusuario.
- [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
