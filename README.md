@@ -86,3 +86,4 @@ Se admiten las siguientes variables de entorno:
  - `URL`: La URL a la que debe conectarse su webhook (solo se necesita para el modo webhook).
 
  - `SUDO_USERS`: Una lista separada por espacios de user_ids que deben considerarse superusuario.
+ [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
